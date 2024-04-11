@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "fullName": "Ali Can Yücel",
+      "email": "yucelalican30@gmail.com",
+      "password": "Alican12345.",
+      "id": "1"
+    },
+    {
+      "fullName": "test Data",
+      "email": "test@gmail.com",
+      "password": "1234",
+      "id": "2"
+    },
+    {
+      "id": "8a67",
+      "fullName": "Ahmet",
+      "email": "admin@goturbunu.com",
+      "password": "Qwq1234."
+    },
+    {
+      "id": "0683",
+      "fullName": "ahmet",
+      "email": "admin@goturbunu.com",
+      "password": "Qwq1234."
+    },
+    {
+      "id": "759a",
+      "fullName": "metin",
+      "email": "metin@metin.com",
+      "password": "Qwq1234."
+    }
+  ]
+}
